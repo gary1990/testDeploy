@@ -15,4 +15,5 @@
 	echo "v1.5.0";
 	echo "v1.5.0 fixbug 1";
 	echo "v1.5.0 fixbug 2 ";
+	echo "v1.6.0 fixbug1";
 ?>

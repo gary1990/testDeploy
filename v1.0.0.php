@@ -13,5 +13,5 @@
 	echo "fix 1.4.0";
 	echo "saas";
 	echo "v1.5.0";
-	echo "v1.5.0 fix bug1";
+	echo "v1.5.0 fixbug 1";
 ?>
